@@ -16,6 +16,6 @@
     .project__photos {
         display: flex;
         flex-direction: column;
-        padding-bottom: 50px;
+        padding: 0 10px;
     }
 }

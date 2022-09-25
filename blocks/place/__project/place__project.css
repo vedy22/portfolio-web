@@ -14,8 +14,7 @@
 }
 @media(max-width: 767px) {
     .place__project {
-        display: flex;
-        flex-direction: column;
-        padding-bottom: 50px;
+        grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+        padding: 10px;
     }
 }
