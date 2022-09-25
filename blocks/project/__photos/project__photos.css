@@ -14,7 +14,7 @@
 }
 @media(max-width: 565px) {
     .project__photos {
-        width: 300px;
+        width: 270px;
         display: flex;
         flex-direction: column;
         padding: 0 10px;
