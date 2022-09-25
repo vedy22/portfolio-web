@@ -1,9 +1,9 @@
-# portfolio-trafik
-заголовок-название - Портфолио Трафик-менеджер
+# portfolio-web
+заголовок-название - Портфолио Web-developer
  
 <div align="center">
-<img src="https://github.com/vedy22/vedy22/blob/main/screens/2022-09-04_09-47-27.png" alt="скрин страницы">
+<img src="https://github.com/vedy22/vedy22/blob/main/screens/web.png" alt="скрин страницы">
 
-https://vedy22.github.io/p-trafik/
+https://vedy22.github.io/portfolio-web/
 
 </div>
