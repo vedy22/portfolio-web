@@ -9,7 +9,7 @@
     grid-column-gap: 16px;
     grid-row-gap: 16px;
     list-style-type: none;
-    padding: 0 50px 50px;
+    padding: 0 10px 10px;
     text-align: center;
 }
 @media(max-width: 565px) {
