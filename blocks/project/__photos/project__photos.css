@@ -1,0 +1,21 @@
+.project__photos {
+    max-width: 1000px;
+    padding: 0;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-rows: auto;
+    object-fit: cover;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    list-style-type: none;
+    padding: 0 50px 50px;
+    text-align: center;
+}
+@media(max-width: 767px) {
+    .project__photos {
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+}
